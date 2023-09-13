@@ -1,0 +1,17 @@
+:root {
+    --cor-de-fundo: #ff00b3;
+}
+.imagem{
+    height:300px;
+    width: 400px;
+}
+.texto-principal{
+    text-align: center;
+    color: #87CEEB;
+}
+.botao{
+    margin: 40px;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
